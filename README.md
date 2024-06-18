@@ -1,1 +1,1 @@
-Projection-pursuit Bayesian regression for symmetric matrix predictors
+# Projection-pursuit Bayesian regression for symmetric matrix predictors
